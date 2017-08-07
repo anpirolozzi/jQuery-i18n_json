@@ -36,8 +36,8 @@ var	i18n_en={
 	
 	//I seguenti due metodi permettono la traduzione della pagina utilizzando o i dizionari contenuti nelle variabili o nei file JSON
 	//ATTENZIONE: solo una delle due modalità di caricamento deve essere attiva, commenta quella che non intendi utilizzare.
-	//caricadavariabile(); // carica il dizionario della lingua di destinazione dalla variabile
-	caricadaserver(); // carica il dizionario della lingua di destinazione dal file JSON
+	caricadavariabile(); // carica il dizionario della lingua di destinazione dalla variabile
+	//caricadaserver(); // carica il dizionario della lingua di destinazione dal file JSON
 
 	function getLang(){//ottiene la lingua di destinazione dalla richiesta GET del selector.html
 		ln=window.location.search.substr(1);
