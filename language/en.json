@@ -1,0 +1,15 @@
+{
+		"e1"  							: "hi1",
+		"e2"  							: "hi2",
+		"e3"  							: "hi3",
+		"e4"  							: "hi4",
+		"e5"  							: "hi5",
+		"e6"  							: "hi6",
+		"e7"  							: "hi7",
+		"e8"  							: "hi8",
+		"e9"  							: "hi9",
+		"e10" 							: "hi10",
+		"dc" 				: "Resolution of the windows %s x %s",
+		"odc" : "%2$s is the height, %1$s is the width.",
+		"hc"            : "Your windows is <b><i>%s</i></b> x <b><i>%s</i></b>"
+}

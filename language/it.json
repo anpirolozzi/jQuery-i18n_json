@@ -1,0 +1,15 @@
+{
+		"e1"  							: "ciao1",
+		"e2"  							: "ciao2",
+		"e3"  							: "ciao3",
+		"e4"  							: "ciao4",
+		"e5"  							: "ciao5",
+		"e6"  							: "ciao6",
+		"e7"  							: "ciao7",
+		"e8"  							: "ciao8",
+		"e9"  							: "ciao9",
+		"e10" 							: "ciao10",
+		"dc" 				: "La tua finestra browser ha risoluzione %s x %s",
+		"odc" : "%2$s corrisponde all'altezza, %1$s alla larghezza.",
+		"hc"            : "La tua finestra <b><i>%s</i></b> x <b><i>%s</i></b>"
+}
